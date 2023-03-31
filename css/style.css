@@ -23,17 +23,14 @@ body    {
                 
 }
 
+/*-- hero image--*/
 
-.text-center    {
-                text-align: center;
-                
+#hero-outer img     {
+                height: 300px;
+                width: 100%;
 }
-
-.hero-image     {
-                
-
-}
-.orange-bg      {
-                background-color: #e49763 60%;
-
+#hero-outer     {
+                height:300px;
+                width:100%;
+                overflow: hidden;
 }
