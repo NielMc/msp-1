@@ -18,9 +18,8 @@ body    {
 
 /*-- nav bar --*/
 
-nav         {
-                position: relative;    
-                float: right;
+.navbar         {float: right;
+               
                 
 }
 
@@ -30,7 +29,10 @@ nav         {
                 
 }
 
+.hero-image     {
+                
 
+}
 .orange-bg      {
                 background-color: #e49763 60%;
 
