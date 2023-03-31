@@ -1,0 +1,37 @@
+
+
+/* main */
+
+body    {
+        margin:0;
+        padding:0;
+        font-family: 'Oswald' sans-serif;
+}
+
+/* logo */
+
+#logo   {
+        position:fixed; top:0; left:0;
+        max-width: 100%;
+        height: auto;
+}
+
+/*-- nav bar --*/
+
+nav         {
+                position: relative;    
+                float: right;
+                
+}
+
+
+.text-center    {
+                text-align: center;
+                
+}
+
+
+.orange-bg      {
+                background-color: #e49763 60%;
+
+}
