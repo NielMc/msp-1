@@ -13,15 +13,18 @@ body    {
 #logo   {
         position:fixed; top:0; left:0;
         max-width: 100%;
-        height: auto;
+       
 }
 
 /*-- nav bar --*/
 
-.navbar         {float: right;
-               
-                
+nav     {
+        background-color: #e49763;     
 }
+                
+          
+                
+
 
 /*-- hero image--*/
 
