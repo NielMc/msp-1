@@ -22,7 +22,9 @@ nav     {
         background-color: #e49763;     
 }
                 
-          
+.navbar-toggler  {
+                float: right;
+}       
                 
 
 
