@@ -31,6 +31,9 @@ p       {
 .text-brown     {
                 color:#6f503d;
 }
+.heavy-font     {
+                font-weight:600;
+}
 
 /*-- images in content --*/
 .border {
@@ -42,6 +45,7 @@ p       {
 
 ul      {
         list-style-type: none;
+        font-weight: 600;
 }
 
                 
