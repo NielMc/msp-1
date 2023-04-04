@@ -22,20 +22,10 @@ nav     {
         background-color: #e49763;     
 }
                 
-.navbar-toggler  {
-                float: right;
-}       
-                
-
 
 /*-- hero image--*/
 
-#hero-outer img     {
-                height: 300px;
-                width: 100%;
-}
-#hero-outer     {
-                height:300px;
-                width:100%;
-                overflow: hidden;
-}
+/*--main page content--*/
+.bg-orange-light {
+        background-color: #e49763;
+    }
