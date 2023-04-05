@@ -12,6 +12,10 @@ body    {
         background-color: #e49763; 
     }
 
+.bg-orange-bright      {
+                        background-color: #f3b341;
+}
+
 
    /*-- headings and content --*/ 
 h3 {
@@ -48,6 +52,13 @@ ul      {
         font-weight: 600;
 }
 
+.float-right    {
+                float:right;
+}
+
+.float-left     {
+                float:left;
+}
                 
                 
 /* logo */
