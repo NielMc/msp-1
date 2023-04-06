@@ -38,7 +38,7 @@
 
           <a class="nav-link" href="gallery.html">Gallery</a>
           <a class="nav-link" href="faq.html">FAQS</a>
-          <a class="nav-link" href="contact.html">Contact</a>
+          <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#signupmodal">Contact</a>
         </div>
       </div>
     </div>
@@ -76,6 +76,7 @@
                   </ul> 
                 </p>
                 <p class="text-brown">Please contact me for a Quotation</p>
+                <button type="button" class="btn p-2 m-2 bg-orange-bold text-slate heavy-font" data-bs-toggle="modal" data-bs-target="#signupmodal">Contact Me</button>
               </div>
 
               <div class="col-12 col-md-6">
@@ -92,7 +93,9 @@
                 <h4>Proffessional service with over 10 years experience<img class="img-fluid" src="assets/icons/maleicon_50x50.png" alt="man icon"></h4>
                 <p>I have been creating, maintaining and removing dreadlocks for some time now.
                   I offer a mobile service so all work can be done in the comfort of your own home. I can offer sessions from 1 hour upto 6 hours in one day. I also offer evening and night time bookings aswell as in the day.</p>
-              </div>
+                  <button type="button" class="btn p-2 m-2 bg-orange-bold text-slate heavy-font" data-bs-toggle="modal" data-bs-target="#signupmodal">Contact Me</button>
+            </div>
+              
             </div>
       
             <!-- third text/image combo -->
@@ -103,7 +106,7 @@
                    or other products advertised for dreadlocks as many of these will stay in you hair and over time rot, 
                   making the inside of your dreads mouldy and unhealthy. This is why I use nothing more than a crochet 
                 hook and fine tooth comb when both creating and maintaining any dreadlocks.</p>
-                
+                <button type="button" class="btn p-2 m-2 bg-orange-bold text-slate heavy-font" data-bs-toggle="modal" data-bs-target="#signupmodal">Contact Me</button>
               </div>
               <div class="col-12 col-md-6">
                 <img class="border img-fluid" src="assets/images/dreadskate_300x300.jpg" alt="skateboarder with dreadlocks">
@@ -138,6 +141,7 @@
     <p>The secret to long lasting dreadlocks is product free maintenance. I have had my dreadlocks for over 15 years and have never experienced any problems with odours of dirt build up, This is all due to maintaining them correctly.
       Many people think dreadlocks are an easy ride with no maintainance needed, This couldnt be further from the truth. In the early stages I spent many hours a week on maintainance.
     </p>
+    <button type="button" class="btn p-2 m-2 bg-orange-bold text-slate heavy-font" data-bs-toggle="modal" data-bs-target="#signupmodal">Contact Me</button>
   </div>
 </div>
 
@@ -145,7 +149,9 @@
       <div class="row my-3">
         <div class="col-12 col-md-6">
           <h4>I love to cater to your unique needs<img class="img-fluid" src="assets/icons/womanicon_50x50.png" alt="woman icon"></h4>
-          <p>Not all dreadlocks are the same. they can be different in so many ways, Everyone has different thickness, stlye of wear, added beads and colours.I love to help make your look unique and will happily liase along the planning stage with you so we can reach your desired result.</p>
+          <p>Not all dreadlocks are the same. they can be different in so many ways, Everyone has different thickness, stlye of wear, added beads and colours.I love to help make your look unique and will happily liase along the planning stage with you so we can reach your desired result.
+          </p>
+          <button type="button" class="btn p-2 m-2 bg-orange-bold text-slate heavy-font" data-bs-toggle="modal" data-bs-target="#signupmodal">Contact Me</button>
         </div>
         <div class="col-12 col-md-6">
           <img class="border img-fluid" src="assets/images/serahpic2.jpg" alt="Serah ski-ing with her dreadlocks">
@@ -179,9 +185,42 @@
         </footer>
      
       
-  
+  <!-- signup modal-->
       
-
+  <div class="modal " tabindex="-1" id="signupmodal">
+    <div class="modal-dialog">
+      <div class="modal-content bg-orange-light">
+        <div class="modal-header">
+          <h5 class="modal-title text-slate heavy-font">Contact Me</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body text-brown heavy-font">
+          <p>Please fill the form below.</p>
+          <form>
+           <label for="firstname" class="text-slate">First Name:</label> 
+          <input type="text" id="firstname" class="m-2">
+          <br>
+          <Label for="surname" class="text-slate">Surname:</Label>
+          <input type="text" id="surname" class="m-2">
+          <br>
+          <label for="email" class="text-slate">Email Address:</label>
+          <input type="email" id="email" class="m-2">
+          <br>
+          <label for="phone" class="text-slate">Phone Number:</label>
+          <input type="number" id="phone" class="m-2">
+          <br>
+          <label for="reason" class="text-slate">Reason For Contact: <p class="text-brown">Please give full descriptiuon of your current hair situation aswell as what you hope to achieve.</p></label>
+          <input type="text" id="reason">
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn bg-orange-bold text-slate heavy-font" data-bs-dismiss="modal">Close</button>
+          <button type="reset" value="Clearform" class="btn bg-orange-bold text-slate heavy-font">Reset</button>
+          <button type="button" class="btn bg-orange-bold text-slate heavy-font">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
 

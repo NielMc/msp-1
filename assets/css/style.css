@@ -60,7 +60,11 @@ ul      {
 .float-right    {
                 float:right;
 }
+/*-- contact button --*/
 
+.bg-orange-bold  {
+                  background-color: #eb7719;      
+}
 
                 
 /* logo */
