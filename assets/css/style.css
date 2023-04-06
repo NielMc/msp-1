@@ -19,12 +19,12 @@ body    {
 
    /*-- headings and content --*/ 
 h3 {
-        color:#4d4244
+        color:#4d4244;
         
 }
 
 h4   {
-        color:#4d4244
+        color:#4d4244;
         
 }
 
@@ -35,6 +35,11 @@ p       {
 .text-brown     {
                 color:#6f503d;
 }
+
+.text-slate     {
+                color:#4d4244;
+}
+
 .heavy-font     {
                 font-weight:600;
 }
@@ -56,19 +61,21 @@ ul      {
                 float:right;
 }
 
-.float-left     {
-                float:left;
-}
-                
+
                 
 /* logo */
 
-
 /*-- nav bar --*/
 
- /*-- want nav bar toggle button and nav text to float right  --*/
-
+ /*-- want nav bar  text to float right  --*/
 
 /*--hero image --*/
+
+/*-- Faq accordion --*/
+.accordion-button:not(.collapsed) {
+        color: #4d4244;
+        background-color: #e49763;
+    }
+
 
 
