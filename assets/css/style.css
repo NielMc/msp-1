@@ -31,6 +31,7 @@ h4   {
 p       {
         color: #6f503d;
         font-weight: 600;
+        text-align: left;
 }
 .text-brown     {
                 color:#6f503d;
@@ -44,6 +45,7 @@ p       {
                 font-weight:600;
 }
 
+
 /*-- images in content --*/
 .border {
         background: #eb7719;
@@ -55,6 +57,7 @@ p       {
 ul      {
         list-style-type: none;
         font-weight: 600;
+        text-align: left;
 }
 
 .float-right    {
