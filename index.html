@@ -17,7 +17,7 @@
     
          <!--logo in nav bar-->
 
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand me-auto mx-5" href="#">
       <img src="assets/images/weblogo.png" width="220px" height="100px" alt="dreadlocks by serah logo">
    
       <!-- bootstrap nav bar-->
@@ -27,7 +27,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="navbar-collapse collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
+        <div class="navbar-nav ms-auto mx-5">
           <a class="nav-link active dropdown-toggle" aria-current="page" href="index.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Home
           </a>
@@ -187,42 +187,39 @@
         </footer>
      
       
-  <!-- signup modal-->
-      
-  <div class="modal " tabindex="-1" id="signupmodal">
-    <div class="modal-dialog">
-      <div class="modal-content bg-orange-light">
-        <div class="modal-header">
-          <h5 class="modal-title text-slate heavy-font">Contact Me</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body text-brown heavy-font">
-          <p>Please fill the form below.</p>
-          <form>
-           <label for="firstname" class="text-slate">First Name:</label> 
-          <input type="text" id="firstname" class="m-2">
-          <br>
-          <Label for="surname" class="text-slate">Surname:</Label>
-          <input type="text" id="surname" class="m-2">
-          <br>
-          <label for="email" class="text-slate ">Email Address:</label>
-          <input type="email" id="email" class="m-2">
-          <br>
+ <!-- signup modal-->
+
+<div class="modal " tabindex="-1" id="signupmodal">
+  <div class="modal-dialog">
+    <div class="modal-content bg-orange-light">
+      <div class="modal-header">
+        <h5 class="modal-title text-slate heavy-font">Contact Me</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body text-brown heavy-font">
+        <p>Please fill the form below.</p>
+        <form style="display: flex; flex-direction: column;" action="https://formdump.codeinstitute.net" method="post">
+          <label for="firstname" class="text-slate">First Name:</label>
+          <input type="text" id="firstname" class="m-2" name="firstname" required>
+          <label for="surname" class="text-slate" >Surname:</label>
+          <input type="text" id="surname" class="m-2" name="surname">
+          <label for="email" class="text-slate">Email Address:</label>
+          <input type="email" id="email" class="m-2" name="email" required>
           <label for="phone" class="text-slate">Phone Number:</label>
-          <input type="number" id="phone" class="m-2">
-          <br>
+          <input type="number" id="phone" class="m-2" name="phone" required>
           <label for="reason" class="text-slate">Reason For Contact: <p class="text-brown">Please give full descriptiuon of your current hair situation aswell as what you hope to achieve.</p></label>
-          <input type="text" id="reason">
-          </form>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn bg-orange-bold text-slate heavy-font" data-bs-dismiss="modal">Close</button>
-          <button type="reset" value="Clearform" class="btn bg-orange-bold text-slate heavy-font">Reset</button>
-          <button type="button" class="btn bg-orange-bold text-slate heavy-font">Send</button>
-        </div>
+          <textarea id="reason" rows="5" cols="30" name="reason" required></textarea>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn bg-orange-bold text-slate heavy-font" data-bs-dismiss="modal">Close</button>
+        <button type="reset" value="Clearform" class="btn bg-orange-bold text-slate heavy-font">Reset</button>
+        <button type="submit" value="submit" class="btn bg-orange-bold text-slate heavy-font">Send</button>
       </div>
     </div>
   </div>
+</div>
+
 
 
 

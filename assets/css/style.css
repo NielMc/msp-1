@@ -74,7 +74,10 @@ ul      {
 
 /*-- nav bar --*/
 
- /*-- want nav bar  text to float right  --*/
+.navbar-nav .nav-link.active {
+        text-decoration: underline;
+      }
+      
 
 /*--hero image --*/
 
@@ -82,7 +85,20 @@ ul      {
 .accordion-button:not(.collapsed) {
         color: #4d4244;
         background-color: #e49763;
+        box-shadow: none;
     }
+
+  /*-- sign up modal --*/
+  
+  .modal-body form {
+        display: flex;
+        flex-direction: column;
+      }
+      
+      .modal-body input {
+        margin-bottom: 10px;
+      }
+      
 
 
 
