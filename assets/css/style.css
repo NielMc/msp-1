@@ -3,7 +3,7 @@
 /* main */
 
 body    {
-        margin:0;
+        margin:0 ;
         padding:0;
         font-family: 'Oswald' sans-serif;
 }
@@ -77,6 +77,16 @@ ul      {
 .navbar-nav .nav-link.active {
         text-decoration: underline;
       }
+ 
+      .dropdown-menu {
+        top: 100%;
+        left: 0;
+        right: auto;
+        width: 100%;
+        margin: 0;
+        text-align: center;
+      }
+      
       
 
 /*--hero image --*/
@@ -87,6 +97,7 @@ ul      {
         background-color: #e49763;
         box-shadow: none;
     }
+
 
   /*-- sign up modal --*/
   
