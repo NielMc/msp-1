@@ -55,26 +55,26 @@ Complete when sorted fonts
 To follow best practice , Wireframes were developed for mobile, tablet and desktop sizes
 
 
-[screenshot](documentation/Wiremobile.png)
+![screenshot](documentation/Wiremobile.png)
 
-[screenshot](documentation/wirepad1.png)
+![screenshot](documentation/wirepad1.png)
 
-[screenshot](documentation/wirepad2.png)
+![screenshot](documentation/wirepad2.png)
 
-[screenshot](documentation/wiredesk1.png)
+![screenshot](documentation/wiredesk1.png)
 
-[screenshot](documentation/wiredesk2.png)
+![screenshot](documentation/wiredesk2.png)
 
 # High Fidelity  Prototype
 I used [Figma](www.figma.com) to create high fidelity prototypes for mobile, tablet and desktop devices.
 
-[screenshot](documentation/aboutmeshot.png)
+![screenshot](documentation/aboutmeshot.png)
 
-[screenshot](documentation/galleryshot.png)
+![screenshot](documentation/galleryshot.png)
 
-[screenshot](documentation/faqshot.png)
+![screenshot](documentation/faqshot.png)
 
-[screenshot](documentation/contactshot.png)
+![screenshot](documentation/contactshot.png)
 
 # Features
  The website consists of 4 pages, The index page is split into 2 pages consisting of "what I can Do for you" and "About me". It also has a gallery and a frequently asked questions page. I also added an overlay modal which displays a contact form when a contact button/link is actioned.
@@ -83,5 +83,5 @@ I used [Figma](www.figma.com) to create high fidelity prototypes for mobile, tab
  ## Header
   The Header is responsive to all screen sizes. On large screens it expands horzontally, while on smaller screens the menu bar is replaced with a burger icon. Clicking this icon would make nav bar dropdown menu appear. There is also a seperate drop down menu that is accessed when clicking the home link this displays the options for each section of the page.
 
-  [screenshot](documentation/navbarlarge.png)
+  ![screenshot](documentation/navbarlarge.png)
 
