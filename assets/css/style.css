@@ -113,8 +113,18 @@ ul      {
       }
 
     
-           
-      
-
+         /*-- media queries --*/
+         
+        button:hover {
+                font-size: 20px;
+                padding: 12px 24px;
+                background-color: #eb7719; 
+        }
+        .border:hover {
+                transform: scale(1.1);
+              }
+ .zoom:hover {
+                transform: scale(1.1);
+              }           
 
 
