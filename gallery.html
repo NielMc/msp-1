@@ -44,9 +44,9 @@
  
 
   <!-- hero image-->
-  
-  <img src="assets/images/galleryhero1800x700.webp" class="img-fluid" alt="depleted man with dreadlocks urban setting" width="1800" height="700" >
-
+  <div class="hero">
+    <img src="assets/images/galleryhero.webp" alt="depleted man with dreadlocks urban setting">
+  </div>
   <!-- bootstrap grid -->
 
   <section class="container-fluid text-center m-0 p-0">
@@ -66,13 +66,13 @@
         <!-- first text/image combo -->
         <div class="row mx-5 my-3">
           <div class="col-12 col-md-6 order-first order-md-last">
-            <h4>Andrea showing of his locks<img class="img-fluid" src="assets/icons/maleicon_50x50.png" alt="male icon" height="40" width="40"></h4>
+            <h4>Andrea showing of his locks<img class="img-fluid" src="assets/icons/maleicon.webp" alt="male icon" height="40" width="40"></h4>
             <p>I first created andreas dreadlocks around 13 years ago, He has regularly come back for maintainance and has wonderful thick and long locks. In the early days Andrea needed to have maintainance atleast once a month along with doing his own, 
               Now they are fully formed and have been for many years, They require much less maintainance visits as long as regular maintainance is done at home.
             </p>
           </div>
           <div class="col-12 col-md-6 order-last order-md-first" >
-            <img class="zoom" src="assets/images/andrea.webp" class="img-fluid" alt="Andrea after maintainance" height="300" width="500">
+            <img src="assets/images/andrea.webp" class="zoom img-fluid" alt="Andrea after maintainance" height="300" width="500">
           </div>
         </div>
       </section>
@@ -86,16 +86,16 @@
 
         <div class="row my-3 mx-5">
           <div class="col-12 col-md-6">
-            <h4>Jay's Transformation<img class="img-fluid" src="assets/icons/maleicon_50x50.png" alt="Male icon" height="40" width="40"></h4>
+            <h4>Jay's Transformation<img class="img-fluid" src="assets/icons/maleicon.webp" alt="Male icon" height="40" width="40"></h4>
             <p>Jay had previously had Dreadlocks but never kept them over a year as he hated how thick they were made. Jay prefers a thinner dreadlock, with being fairly short also it creates a more bouncible style rather than having long thick ropes.
               before the thin dreadlocks I put in Jay had cornrolls, So first we had to take his styling out, wash the hair and then wait a week without washing before dreading.
             </p>
           </div>
           <div class="col-6 col-md-3">
-            <img class="zoom" src="assets/images/jbefore.webp" class="img-fluid" alt="Jay with cornrolls" height="300" width="300">
+            <img src="assets/images/jbefore.webp" class="zoom img-fluid" alt="Jay with cornrolls" height="300" width="300">
           </div>
           <div class="col-6 col-md-3">
-            <img class="zoom" src="assets/images/jafter.webp" class="img-fluid" alt="Jay with thin dreadlocks" height="300" width="300">
+            <img src="assets/images/jafter.webp" class="zoom img-fluid" alt="Jay with thin dreadlocks" height="300" width="300">
           </div>
         </div>
        </section>
@@ -109,13 +109,13 @@
         <!-- third text/image combo -->
         <div class="row my-3 mx-5">
           <div class="col-12 col-md-6 order-first order-md-last" >
-            <h4>Serah hiding her dreadlocks<img class="img-fluid" src="assets/icons/womanicon_50x50.png" alt="Woman icon" height="40" width="40"></h4>
+            <h4>Serah hiding her dreadlocks<img class="img-fluid" src="assets/icons/womanicon.webp" alt="Woman icon" height="40" width="40"></h4>
             <p>Serah is demonstrating how easy it is to cover un-maintained roots in this picture. There are many coverings you can buy for when you sleep which are a great idea as they help to keep the locks from mattting together.
               As always nothing beats good old regular maintainance for best results seperate and palm roll dreadlocks daily.
             </p>
           </div>
           <div class="col-12 col-md-6 order-last order-md-first">
-            <img class="zoom" src="assets/images/serahrocket.webp" class="img-fluid" alt="Serah Covering dreadlocks with bandana" height="300" width="500">
+            <img src="assets/images/serahrocket.webp" class="zoom img-fluid" alt="Serah Covering dreadlocks with bandana" height="300" width="500">
           </div>
         </div>
       </section>
@@ -129,16 +129,16 @@
   
           <div class="row my-3 mx-5">
             <div class="col-12 col-md-6">
-              <h4>The style possibilitys are endless<img class="img-fluid" src="assets/icons/mandreadhat_50x50.png" alt="Rasta icon" height="40" width="40"></h4>
+              <h4>The style possibilitys are endless<img class="img-fluid" src="assets/icons/mandreadhat.webp" alt="Rasta icon" height="40" width="40"></h4>
               <p>Everyone wants there own unique style to their dreadlocks some like to add colour and beads others like extensions. There is no right or wrong way to wear your locks, 
                 Everyone has their own dread journey.
               </p>
             </div>
             <div class="col-6 col-md-3">
-              <img class="zoom" src="assets/images/reddread.webp" class="img-fluid" alt="Man with red dyed dreadlocks" height="300" width="300" >
+              <img src="assets/images/reddread.webp" class="zoom img-fluid" alt="Man with red dyed dreadlocks" height="300" width="300" >
             </div>
             <div class="col-6 col-md-3">
-              <img class="zoom" src="assets/images/asiahextensions.webp" class="img-fluid" alt="Female with long beehive style dreadlocks" height="300" width="300">
+              <img src="assets/images/asiahextensions.webp" class="zoom img-fluid" alt="Female with long beehive style dreadlocks" height="300" width="300">
             </div>
           </div>
          </section>
@@ -192,13 +192,14 @@
           <input type="number" id="phone" class="m-2" name="phone" required>
           <label for="reason" class="text-slate">Reason For Contact: <p class="text-brown">Please give full descriptiuon of your current hair situation aswell as what you hope to achieve.</p></label>
           <textarea id="reason" rows="5" cols="30" name="reason" required></textarea>
-        </form>
+        
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn bg-orange-bold text-slate heavy-font" data-bs-dismiss="modal">Close</button>
-        <button type="reset" value="Clearform" class="btn bg-orange-bold text-slate heavy-font">Reset</button>
-        <button type="submit" value="submit" class="btn bg-orange-bold text-slate heavy-font">Send</button>
+        <button type="button" class="btn bg-orange-bold text-slate heavy-font btn-contact" data-bs-dismiss="modal">Close</button>
+        <button type="reset" value="Clearform" class="btn bg-orange-bold text-slate heavy-font btn-contact">Reset</button>
+        <button type="submit" value="submit" class="btn bg-orange-bold text-slate heavy-font btn-contact">Send</button>
       </div>
+    </form>
     </div>
   </div>
 </div>

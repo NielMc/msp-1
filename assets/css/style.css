@@ -69,6 +69,24 @@ ul      {
                   background-color: #eb7719;      
 }
 
+.btn-contact {
+        background-color: #eb7719; 
+        color: #4d4244;
+        border: none;
+      }
+      
+      .btn-contact:hover {
+        background-color: #eb7719; 
+        color: #4d4244;
+        border: none;
+      }
+      
+      .btn-contact:active {
+        background-color: #eb7719; 
+        color: #4d4244;
+        border: none;
+      }
+
                 
 /* logo */
 
@@ -90,6 +108,23 @@ ul      {
      
 
 /*--hero image --*/
+
+.hero {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+      }
+      
+      .hero img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      
 
 
 /*-- Faq accordion --*/
