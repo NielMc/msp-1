@@ -84,8 +84,70 @@ I used [Figma](www.figma.com) to create high fidelity prototypes for mobile, tab
 
  # General Features
  ## Header
-  The Header is responsive to all screen sizes. On large screens it expands horzontally, while on smaller screens the menu bar is replaced with a burger icon. Clicking this icon would make nav bar dropdown menu appear. There is also a seperate drop down menu that is accessed when clicking the home link this displays the options for each section of the page.
+  The Header is responsive to all screen sizes. On large screens it expands horzontally, while on smaller screens the menu bar is replaced with a burger icon. Clicking this icon would make nav bar dropdown menu appear. There is also a seperate drop down menu that is accessed when clicking the home link this displays the options for each section of the page.The Nav bar is from [Bootstrap](https://getbootstrap.com/) and then customised by myself.
 
   ![screenshot](documentation/navbarlarge.webp)
   ![screenshot](documentation/navbarsmall.webp)
 
+  ## Footer
+ The footer features contact information as well as icons linking to social media pages.
+ ![screenshot](documentation/footerlarge.webp)
+  ![screenshot](documentation/footersmall.webp)
+
+  ## Modals and Forms
+  The Contact Me Modal is a pop-up actioned when the user selects a contact me button or Contact in the nav bar. The Modal is from [Bootstrap](https://getbootstrap.com/) and then customised by myself. The Form clearly displays which inputs are required or optional with placeholder text.
+  ![screenshot](documentation/contactmodal.webp)
+
+## Home Page 
+The home page is where the services offered and credibility are advertised. This page offers information on the services available as well as on the person providing them. The home page also makes it very easy for the user to make contact should they wish too.
+![screenshot](documentation/homepage.webp)
+
+## Gallery
+The gallery is where the user can find examples of previous work as well as other engaging content.
+![screenshot](documentation/gallery.webp)
+
+## Frequently Asked Questions
+The FAQ Page is where the user can find the answers to the most common questions. There is also a video iframe in this section which has great relatable content. Video from [Liz Kidder Studios On Youtube](https://www.youtube.com/@lizkidderstudio) 
+![screenshot](documentation/faq.webp)
+
+# Future Features
+
+## Contact Modal
+The modal needs to conect to a backend system to be functional and store the user data and requests.
+I also think a seperate modal that opens when the user submits on the first modal thanking them would be a great addition.
+
+## Gallery
+More real live examples and case scenarios to be added to further proove authority in sector.
+
+## FAQ
+More questions to be covered, This can be looked at when customer queries are recieved and can be assesed to analyse the most needed for this section.
+
+## Footer
+Correct contact information to be added once set up by business owner.
+Social media icons will link to direct page rather than the social media homepages, Once social media pages have been set up.
+
+# Technologies Used
+
+## Tools & Programs Used
+
+- [Figma](https://www.figma.com/) Was Used for the wire frames and high fidelity prototypes.
+
+- [Canva](https://www.canva.com/) Was used for logo creation.
+
+- [Github](https://github.com/) & [Gitpod](https://gitpod.io/) For version control, Safe storage and Deployment. Web based IDE.
+
+- [Google Dev Tools](https://developer.chrome.com/docs/devtools/) For testing and troubleshooting.
+
+- [Gimp](https://www.gimp.org/) For Image Manipulation(Resizing,converting file type etc.)
+
+- [Bootstrap](https://getbootstrap.com/) was used accross the design including Grid, Modal, Brand Nav Bar.
+
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) For colour theme.
+
+- [Lorem Ipsum](https://loremipsum.io/) Was used for place holder text in the earlier design stage.
+
+- [CDN Fonts](https://www.cdnfonts.com/) Was used to import font.
+
+- [Am I Responsive?](https://ui.dev/amiresponsive?url=https://jaycode88.github.io/msp-1) To Create visuals for responsive design.
+
+- [ChatGPT](https://chat.openai.com/) Was used for trouble shooting.

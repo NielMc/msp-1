@@ -188,7 +188,7 @@
 
  <!-- signup modal-->
 
- <div class="modal " tabindex="-1" id="signupmodal">
+<div class="modal " tabindex="-1" id="signupmodal">
   <div class="modal-dialog">
     <div class="modal-content bg-orange-light">
       <div class="modal-header">
@@ -199,23 +199,23 @@
         <p>Please fill the form below.</p>
         <form style="display: flex; flex-direction: column;" action="https://formdump.codeinstitute.net" method="post" target="_blank">
           <label for="firstname" class="text-slate">First Name:</label>
-          <input type="text" id="firstname" class="m-2" name="firstname" required>
+          <input type="text" id="firstname" class="m-2" name="firstname" placeholder="Required" required>
           <label for="surname" class="text-slate" >Surname:</label>
-          <input type="text" id="surname" class="m-2" name="surname">
+          <input type="text" id="surname" class="m-2" name="surname"placeholder="Optional">
           <label for="email" class="text-slate">Email Address:</label>
-          <input type="email" id="email" class="m-2" name="email" required>
+          <input type="email" id="email" class="m-2" name="email" placeholder="Required" required>
           <label for="phone" class="text-slate">Phone Number:</label>
-          <input type="number" id="phone" class="m-2" name="phone" required>
+          <input type="number" id="phone" class="m-2" name="phone" placeholder="Required" required>
           <label for="reason" class="text-slate">Reason For Contact: <p class="text-brown">Please give full descriptiuon of your current hair situation aswell as what you hope to achieve.</p></label>
-          <textarea id="reason" rows="5" cols="30" name="reason" required></textarea>
+          <textarea id="reason" rows="5" cols="30" name="reason" placeholder="Required" required></textarea>
+       </div>
        
-      </div>
       <div class="modal-footer">
         <button type="button" class="btn bg-orange-bold text-slate heavy-font btn-contact" data-bs-dismiss="modal">Close</button>
         <button type="reset" value="Clearform" class="btn bg-orange-bold text-slate heavy-font btn-contact">Reset</button>
         <button type="submit" value="submit" class="btn bg-orange-bold text-slate heavy-font btn-contact">Send</button>
-      </div>
-     </form>
+      </div> 
+    </form>
     </div>
   </div>
 </div>
