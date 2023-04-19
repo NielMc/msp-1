@@ -17,7 +17,10 @@ Most locticians use  black gold and green to relate to the Jamacan culture of dr
 - EB7719 Used for call to actions and some image borders
 
 # Typography
-Complete when sorted fonts
+I chose to use Georgia as my preffered font as it is easy to read and maintains a proffesional appearance. I used Verdana as the websafe font this is due to it being designed for monitors, having distinctive letter forms thst help avoid confusion. Sans Serif was used as the fallback font due to it being generic.
+The georgia font was exported from [Cdnfonts](https://www.cdnfonts.com/).
+
+Icons used were from [Font Awesome](https://fontawesome.com) and [Adobe Stock](https://stock.adobe.com/)
 
 # User Stories
 ## New Site Users
@@ -83,5 +86,6 @@ I used [Figma](www.figma.com) to create high fidelity prototypes for mobile, tab
  ## Header
   The Header is responsive to all screen sizes. On large screens it expands horzontally, while on smaller screens the menu bar is replaced with a burger icon. Clicking this icon would make nav bar dropdown menu appear. There is also a seperate drop down menu that is accessed when clicking the home link this displays the options for each section of the page.
 
-  ![screenshot](documentation/navbarlarge.png)
+  ![screenshot](documentation/navbarlarge.webp)
+  ![screenshot](documentation/navbarsmall.webp)
 
