@@ -77,7 +77,7 @@ A sharp free flowing design with engaging imagery and call to actions were felt 
 
 ## Colour Scheme
 Most locticians use  black gold and green to relate to the Jamacan culture of dreadlocks. How ever as a business that caters for all races and hair types we wanted to keep the theme natural and earthy hence the choice of slate, brown and oranges. I used [adobe color wheel](https://color.adobe.com/create/color-wheel) to create my colour scheme.
-![screenshot](documentation/colorscheme.png)
+![screenshot](documentation/colourtheme.webp)
 - 6F503D was used for text
 - 4D4244 Was used for headings
 - E49763 & F3B341 Used as Background colours
