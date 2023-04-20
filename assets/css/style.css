@@ -10,7 +10,7 @@ body    {
 }
 
 .bg-orange-light {
-        background-color: #e49763; 
+        background-color: #e8a579; 
     }
 
 .bg-orange-bright      {
@@ -20,26 +20,26 @@ body    {
 
    /*-- headings and content --*/ 
 h3 {
-        color:#4d4244;
+        color:#241f20;
         
 }
 
 h4   {
-        color:#4d4244;
+        color:#241f20
         
 }
 
 p       {
-        color: #6f503d;
+        color: #3e2c22;
         font-weight: 600;
         text-align: left;
 }
 .text-brown     {
-                color:#6f503d;
+                color:#3e2c22;
 }
 
 .text-slate     {
-                color:#4d4244;
+                color:#241f20;
 }
 
 .heavy-font     {
@@ -72,19 +72,19 @@ ul      {
 
 .btn-contact {
         background-color: #eb7719; 
-        color: #4d4244;
+        color: #241f20;
         border: none;
       }
       
       .btn-contact:hover {
         background-color: #eb7719; 
-        color: #4d4244;
+        color: #241f20;
         border: none;
       }
       
       .btn-contact:active {
         background-color: #eb7719; 
-        color: #4d4244;
+        color: #241f20;
         border: none;
       }
 
@@ -130,8 +130,8 @@ ul      {
 
 /*-- Faq accordion --*/
 .accordion-button:not(.collapsed) {
-        color: #4d4244;
-        background-color: #e49763;
+        color: #241f20;
+        background-color: #e8a579;
         box-shadow: none;
     }
 
