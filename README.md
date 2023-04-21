@@ -144,7 +144,7 @@ The gallery is where the user can find examples of previous work as well as othe
 ![screenshot](documentation/gallery.webp)
 
 ## Frequently Asked Questions
-The FAQ Page is where the user can find the answers to the most common questions. There is also a video iframe in this section which has great relatable content. Video from [Liz Kidder Studios On Youtube](https://www.youtube.com/@lizkidderstudio) 
+The FAQ Page is where the user can find the answers to the most common questions. The questions and answers are set in a [Bootstrap Accordion](https://getbootstrap.com/docs/5.0/components/accordion/) There is also a video iframe in this section which has great relatable content. Video from [Liz Kidder Studios On Youtube](https://www.youtube.com/@lizkidderstudio) 
 ![screenshot](documentation/faq.webp)
 
 # Future Features
