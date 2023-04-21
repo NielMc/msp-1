@@ -294,7 +294,7 @@ A Select few images of myself and Serah are from personal collection.
 
 ### Other Gallery Images
 
--Andrea's Image is from Andrea Bova on [Pexels](https://www.pexels.com/photo/man-in-denim-jacket-and-brown-pants-2479694/).
+- Andrea's Image is from Andrea Bova on [Pexels](https://www.pexels.com/photo/man-in-denim-jacket-and-brown-pants-2479694/).
 
 - Jay's Images is from Personal collection.
 
