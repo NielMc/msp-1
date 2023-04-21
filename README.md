@@ -78,9 +78,9 @@ A sharp free flowing design with engaging imagery and call to actions were felt 
 ## Colour Scheme
 Most locticians use  black gold and green to relate to the Jamacan culture of dreadlocks. How ever as a business that caters for all races and hair types we wanted to keep the theme natural and earthy hence the choice of slate, brown and oranges. I used [adobe color wheel](https://color.adobe.com/create/color-wheel) to create my colour scheme.
 ![screenshot](documentation/colourtheme.webp)
-- 6F503D was used for text
-- 4D4244 Was used for headings
-- E49763 & F3B341 Used as Background colours
+- 3E2C22 was used for text
+- 241F20 Was used for headings
+- E8A579 & F3B341 Used as Background colours
 - EB7719 Used for call to actions and some image borders
 
 ## Typography
@@ -192,7 +192,7 @@ Social media icons will link to direct page rather than the social media homepag
 
 # Testing
 
-For all testing, Please refer to the Testing.md File
+For all testing, Please refer to the [TESTING.md](TESTING.md) File
 
 # Deployment
 The site was deployed to GitHub Pages. The steps to deploy are as follows: 
