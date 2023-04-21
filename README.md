@@ -25,7 +25,6 @@ This is a site built for a real world business. Dreadlocks by Serah offer a mobi
 - [Frequently Asked Questions](#frequently-asked-questions)
 4. [Future Features](#future-features)
 5. [Technologies Used](#technologies-used)
-- [Tools & Programs](#tools--programs-used)
 6. [Testing](#testing)
 7. [Deployment](#deployment)
 - [Local deployment & Cloning](#local-deployment)
@@ -84,8 +83,8 @@ Most locticians use  black gold and green to relate to the Jamacan culture of dr
 - EB7719 Used for call to actions and some image borders
 
 ## Typography
-I chose to use Roboto as my preffered font as it is easy to read on all screen sizes. I used Verdana as the websafe font this is due to it being designed for monitors, having distinctive letter forms that help avoid confusion. Sans Serif was used as the fallback font due to it being generic.
-The georgia font was exported from [Google fonts](https://fonts.google.com/specimen/Roboto).
+I have chosen to use Roboto as my preffered font as it is easy to read on all screen sizes. I used Verdana as the websafe font this is due to it being designed for monitors, having distinctive letter forms that help avoid confusion. Sans Serif was used as the fallback font due to it being generic.
+The Roboto font was exported from [Google fonts](https://fonts.google.com/specimen/Roboto).
 
 Icons used were from [Font Awesome](https://fontawesome.com) and [Adobe Stock](https://stock.adobe.com/)
 
@@ -174,6 +173,8 @@ Social media icons will link to direct page rather than the social media homepag
 
 - [Github](https://github.com/) & [Gitpod](https://gitpod.io/) For version control, Safe storage and Deployment. Web based IDE.
 
+- [Codeanywhere](https://app.codeanywhere.com/) Was used as a web based IDE.
+
 - [Google Dev Tools](https://developer.chrome.com/docs/devtools/) For testing and troubleshooting.
 
 - [Gimp](https://www.gimp.org/) For Image Manipulation(Resizing,converting file type etc.)
@@ -190,11 +191,11 @@ Social media icons will link to direct page rather than the social media homepag
 
 - [ChatGPT](https://chat.openai.com/) Was used for trouble shooting.
 
-- [W3 HTML Validator](https://validator.w3.org/)
+- [W3 HTML Validator](https://validator.w3.org/) Was used to validate HTML.
 
-- [W3 Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [W3 Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/) Was used to Validate CSS.
 
-- [AY11 Colour Contrast](https://color.a11y.com/Contrast/)
+- [AY11 Colour Contrast](https://color.a11y.com/Contrast/) Was used to test colour contrast.
 
 # Testing
 
