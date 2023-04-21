@@ -84,8 +84,8 @@ Most locticians use  black gold and green to relate to the Jamacan culture of dr
 - EB7719 Used for call to actions and some image borders
 
 ## Typography
-I chose to use Georgia as my preffered font as it is easy to read and maintains a proffesional appearance. I used Verdana as the websafe font this is due to it being designed for monitors, having distinctive letter forms that help avoid confusion. Sans Serif was used as the fallback font due to it being generic.
-The georgia font was exported from [Cdnfonts](https://www.cdnfonts.com/).
+I chose to use Roboto as my preffered font as it is easy to read on all screen sizes. I used Verdana as the websafe font this is due to it being designed for monitors, having distinctive letter forms that help avoid confusion. Sans Serif was used as the fallback font due to it being generic.
+The georgia font was exported from [Google fonts](https://fonts.google.com/specimen/Roboto).
 
 Icons used were from [Font Awesome](https://fontawesome.com) and [Adobe Stock](https://stock.adobe.com/)
 
@@ -189,6 +189,12 @@ Social media icons will link to direct page rather than the social media homepag
 - [Am I Responsive?](https://ui.dev/amiresponsive?url=https://jaycode88.github.io/msp-1) To Create visuals for responsive design.
 
 - [ChatGPT](https://chat.openai.com/) Was used for trouble shooting.
+
+- [W3 HTML Validator](https://validator.w3.org/)
+
+- [W3 Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+- [AY11 Colour Contrast](https://color.a11y.com/Contrast/)
 
 # Testing
 
