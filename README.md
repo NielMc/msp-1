@@ -185,7 +185,7 @@ Social media icons will link to direct page rather than the social media homepag
 
 - [Lorem Ipsum](https://loremipsum.io/) Was used for place holder text in the earlier design stage.
 
-- [CDN Fonts](https://www.cdnfonts.com/) Was used to import font.
+- [Google Fonts](https://fonts.google.com/) Was used to import font.
 
 - [Am I Responsive?](https://ui.dev/amiresponsive?url=https://jaycode88.github.io/msp-1) To Create visuals for responsive design.
 
@@ -267,9 +267,9 @@ You can fork this repository by using the following steps:
 
 ## Images
 
-Most Images from [Pexels](https://www.pexels.com/).
+Most Images are from [Pexels](https://www.pexels.com/).
 
-Select few images of myself and Serah from personal collection.
+A Select few images of myself and Serah are from personal collection.
 
 ### Index Hero Image
 
