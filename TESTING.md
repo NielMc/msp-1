@@ -69,7 +69,7 @@ I have tested my deployed project on multiple browsers to check for compatibilit
 
 ## Responsiveness
 
-Responsiveness was tested using [Google Dev Tools](https://developer.chrome.com/docs/devtools/) As well as my personal devices.
+I've tested my deployed project on multiple devices to check for responsiveness issues. 
 
 | Device    | Page/Form | Expected Look |
 |-----------|-----------|---------------|
@@ -89,4 +89,69 @@ Responsiveness was tested using [Google Dev Tools](https://developer.chrome.com/
 |           | Gallery   | Y             |
 |           | FAQ       | Y             |
 |           | Modal     | Y             |
+|Tablet     |Index     | Y             |
+|           | Gallery   | Y             |
+|           | FAQ       | Y             |
+|           | Modal     | Y             |
+
+### Desktop
+
+![screenshot](documentation/desktopindex.webp)
+
+![screenshot](documentation/desktopindex2.webp)
+
+### Tablet
+
+![screenshot](documentation/indextablet.webp)
+
+![screenshot](documentation/gallerytablet.webp)
+
+![screenshot](documentation/faqtablet.webp)
+
+![screenshot](documentation/tabletmodal.webp)
+
+### Mobile
+
+![screenshot](documentation/indexmobile.webp)
+
+![screenshot](documentation/gallerymobile.webp)
+
+![screenshot](documentation/faqmobile.webp)
+
+![screenshot](documentation/modalmobile.webp)
+
+Responsiveness was tested using [Google Dev Tools](https://developer.chrome.com/docs/devtools/) As well as my personal devices.
+
+## Lighthouse Audit
+
+I've tested my deployed project using the Lighthouse Audit tool to check for any major issues. 
+
+Index
+
+![screenshot](documentation/lightdesktopindex.webp)
+
+Gallery
+
+![screenshot](documentation/lightdesktopgallery.webp)
+
+FAQ  
+
+![screenshot](documentation/lightdesktopfaq.webp)
+
+## User Story Testing
+
+| User Story                                                | Screenshot                        | Notes |
+|-----------------------------------------------------------|-----------------------------------|-------|
+|As a new site user, I would like to get information and advice, so that I can Decide wether this service is right for me. |![screenshot](documentation/whatican.webp)|Website displays plenty of info regarding services available|
+|As a new site user, I would like to see example work portfolio, so that I can see the qaulity of previous jobs taken.| ![screenshot](documentation/gallerytablet.webp) | Gallery hosts images of previous work.|
+|As a new site user, I would like to understand the process of obtaining dreadlocks and the maintainance they require, so that I can decide wether dreadlocks are for me.|![screenshot](documentation/faqtablet.webp)| The site conatains lots of information regarding dreadlocks the FAQ being the hub of informattion including a video.|
+|As a new site user, I would like to see the simplicity in making an appointment, so that I can go ahead and request services.|![screenshot](documentation/tabletmodal.webp)|There are multiple contact buttons around the site that open an easy to fill form to submit. there is also contact information and social media links in the footer bar.|
+|As a new site user, I would like to be able to locate the relevant content with ease , so that I can move through the site freely finding the information I need.|![screenshot](documentation/navbarlarge.png) | Easy to use nav bar for navigation.|
+|As a returning site user, I would like to be able to find after appointment care advice, So that I can keep hair healthy and maintained until next appointment.|![screenshot](documentation/faqtablet.webp) | FAQ section as well as the option to make contact.|
+|As a returning user to the site, I would like to make contact with an after care querie or book a maintainance appointment.| ![screenshot](documentation/tabletmodal.webp)|Pop up modal with plenty of links around site to action.|
+|As a site administrator, I should be able to provide the basic information needed, so that I can take less time dealing with general queries.|![screenshot](documentation/faqtablet.webp)|FAQ Hub of information other pages also provide useful relevant information|
+|As a site administrator, I should be able to collect customer data to use for future marketing.|![screenshot](documentation/modalbrowsertest.webp)| Form will collect information once back end built.|
+|As a site administrator, I should be able to showcase my work.|![screenshot](documentation/gallerybrowsertest.webp)|Gallery is a page dedicated to photos of previous work.|
+|As a site administrator, I should be able to make my services known to potential customers.
+
 
