@@ -123,15 +123,15 @@ Responsiveness was tested using [Google Dev Tools](https://developer.chrome.com/
 
 I've tested my deployed project using the Lighthouse Audit tool to check for any major issues. 
 
-Index
+### Index
 
 ![screenshot](documentation/lightdesktopindex.webp)
 
-Gallery
+### Gallery
 
 ![screenshot](documentation/lightdesktopgallery.webp)
 
-FAQ  
+### FAQ  
 
 ![screenshot](documentation/lightdesktopfaq.webp)
 
@@ -155,4 +155,4 @@ FAQ
 
 ### Known Bugs
 
-- There is a blue highlight affecting the arrow and around the question box section when clicked. This is due to using the [Bootstrap Accordian](https://getbootstrap.com/docs/5.0/components/accordion/). I have been unable to remove it with doing a fair amount of internet research, I checked within the slack community as well as chatGPT. This does not affect functionality for the user but does not fit the colour theme.
+- There is a blue highlight affecting the arrow and around the question box section when clicked. This is due to using the [Bootstrap Accordian](https://getbootstrap.com/docs/5.0/components/accordion/). I have not been unable to remove it with doing a fair amount of internet research, I checked within the slack community as well as chatGPT. This does not affect functionality for the user but does not fit the colour theme.
