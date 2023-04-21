@@ -56,11 +56,19 @@ I have tested my deployed project on multiple browsers to check for compatibilit
 |         |    FAQ    |        Y      |          Y         |
 |         |   Modal   |        Y      |          Y         |
 
+### Index
+
 ![screenshot](documentation/indexbrowsertest.webp)
+
+### Gallery
 
 ![screenshot](documentation/gallerybrowsertest.webp)
 
+### FAQ
+
 ![screenshot](documentation/faqbrowsertest.webp)
+
+### Modal
 
 ![screenshot](documentation/modalbrowsertest.webp)
 
