@@ -2,11 +2,8 @@
 
 Return back to the [README.md](README.md)
 
-In this section, you need to convince the assessors that you have conducted enough testing to legitimately believe that the site works well. 
-
-Essentially, in this part, you should go over all of your project's features, and ensure that they all work as intended, 
-
-with the project providing an easy and straightforward way for the users to achieve their goals. 
+I have used various tools to Test Funcionality, Validity and responsiveness.
+I have been sure to check all layouts, colours, text, forms, links, buttons are functioning on all devices and screen sizes that I have tested.
 
 ## Code Validation
 
@@ -152,6 +149,10 @@ FAQ
 |As a site administrator, I should be able to provide the basic information needed, so that I can take less time dealing with general queries.|![screenshot](documentation/faqtablet.webp)|FAQ Hub of information other pages also provide useful relevant information|
 |As a site administrator, I should be able to collect customer data to use for future marketing.|![screenshot](documentation/modalbrowsertest.webp)| Form will collect information once back end built.|
 |As a site administrator, I should be able to showcase my work.|![screenshot](documentation/gallerybrowsertest.webp)|Gallery is a page dedicated to photos of previous work.|
-|As a site administrator, I should be able to make my services known to potential customers.
+|As a site administrator, I should be able to make my services known to potential customers.|![screenshot](documentation/homepage.webp)| The index page highlights the services available as well as the site hosting a lot of information. The site's description in the <head> section makes the organisation's work clear for search engines.|
 
+## Bugs
 
+### Known Bugs
+
+- There is a blue highlight affecting the arrow and around the question box section when clicked. This is due to using the [Bootstrap Accordian](https://getbootstrap.com/docs/5.0/components/accordion/). I have been unable to remove it with doing a fair amount of internet research, I checked within the slack community as well as chatGPT. This does not affect functionality for the user but does not fit the colour theme.
