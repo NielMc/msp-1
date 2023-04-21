@@ -38,6 +38,8 @@ There are errors shown, But these are all due to third party applications. All C
 
 ## Browser Capability
 
+I have tested my deployed project on multiple browsers to check for compatibility issues.
+
 | Browser | Page/Form | Expected Look | Expected Behaviour |
 |---------|-----------|---------------|--------------------|
 |  Chrome |   Index   |        Y      |          Y         |
@@ -52,12 +54,39 @@ There are errors shown, But these are all due to third party applications. All C
 |         |  Gallery  |        Y      |          Y         |
 |         |    FAQ    |        Y      |          Y         |
 |         |   Modal   |        Y      |          Y         |
-| Safari  |   Index   |        Y      |          Y         |
-|         |  Gallery  |        Y      |          Y         |
-|         |    FAQ    |        Y      |          Y         |
-|         |   Modal   |        Y      |          Y         |
 |  Opera  |   Index   |        Y      |          Y         |
 |         |  Gallery  |        Y      |          Y         |
 |         |    FAQ    |        Y      |          Y         |
 |         |   Modal   |        Y      |          Y         |
+
+![screenshot](documentation/indexbrowsertest.webp)
+
+![screenshot](documentation/gallerybrowsertest.webp)
+
+![screenshot](documentation/faqbrowsertest.webp)
+
+![screenshot](documentation/modalbrowsertest.webp)
+
+## Responsiveness
+
+Responsiveness was tested using [Google Dev Tools](https://developer.chrome.com/docs/devtools/) As well as my personal devices.
+
+| Device    | Page/Form | Expected Look |
+|-----------|-----------|---------------|
+|Desktop 22"| Index     | Y             |
+|           | Gallery   | Y             |
+|           | FAQ       | Y             |
+|           | Modal     | Y             |
+|Laptop 16" | Index     | Y             |
+|           | Gallery   | Y             |
+|           | FAQ       | Y             |
+|           | Modal     | Y             |
+| Iphone 13 | Index     | Y             |
+|           | Gallery   | Y             |
+|           | FAQ       | Y             |
+|           | Modal     | Y             |
+|Galaxy S20 | Index     | Y             |
+|           | Gallery   | Y             |
+|           | FAQ       | Y             |
+|           | Modal     | Y             |
 
