@@ -24,6 +24,8 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 [FAQ Test Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjaycode88.github.io%2Fmsp-1%2Ffaq.html)
 
+![screenshot](documentation/faqhtmltest.webp)
+
 ### CSS
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
@@ -35,3 +37,27 @@ There are errors shown, But these are all due to third party applications. All C
 ![screenshot](documentation/csstest.webp)
 
 ## Browser Capability
+
+| Browser | Page/Form | Expected Look | Expected Behaviour |
+|---------|-----------|---------------|--------------------|
+|  Chrome |   Index   |        Y      |          Y         |
+|         |  Gallery  |        Y      |          Y         |
+|         |    FAQ    |        Y      |          Y         |
+|         |   Modal   |        Y      |          Y         |
+| Firefox |   Index   |        Y      |          Y         |
+|         |  Gallery  |        Y      |          Y         |
+|         |    FAQ    |        Y      |          Y         |
+|         |   Modal   |        Y      |          Y         |
+|  Edge   |   Index   |        Y      |          Y         |
+|         |  Gallery  |        Y      |          Y         |
+|         |    FAQ    |        Y      |          Y         |
+|         |   Modal   |        Y      |          Y         |
+| Safari  |   Index   |        Y      |          Y         |
+|         |  Gallery  |        Y      |          Y         |
+|         |    FAQ    |        Y      |          Y         |
+|         |   Modal   |        Y      |          Y         |
+|  Opera  |   Index   |        Y      |          Y         |
+|         |  Gallery  |        Y      |          Y         |
+|         |    FAQ    |        Y      |          Y         |
+|         |   Modal   |        Y      |          Y         |
+
