@@ -157,7 +157,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 |As a site administrator, I should be able to provide the basic information needed, so that I can take less time dealing with general queries.|![screenshot](documentation/faqtablet.webp)|FAQ Hub of information other pages also provide useful relevant information|
 |As a site administrator, I should be able to collect customer data to use for future marketing.|![screenshot](documentation/modalbrowsertest.webp)| Form will collect information once back end built.|
 |As a site administrator, I should be able to showcase my work.|![screenshot](documentation/gallerybrowsertest.webp)|Gallery is a page dedicated to photos of previous work.|
-|As a site administrator, I should be able to make my services known to potential customers.|![screenshot](documentation/homepage.webp)| The index page highlights the services available as well as the site hosting a lot of information. The site's description in the <head> section makes the organisation's work clear for search engines.|
+|As a site administrator, I should be able to make my services known to potential customers.|![screenshot](documentation/homepage.webp)| The index page highlights the services available as well as the site hosting a lot of information. The site's description in the "Head" section makes the organisation's work clear for search engines.|
 
 ## Bugs
 
