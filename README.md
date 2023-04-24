@@ -6,37 +6,6 @@ This is a site built for a real world business. Dreadlocks by Serah offer a mobi
 
 ![screenshot](documentation/amiresponsive.png)
 
-# Contents
-1. [User Experience](#user-stories)
-- [New Site Users](#new-site-users)
-- [Returning Site Users](#returning-site-users)
-- [Site Admin](#site-admin)
-2. [Design](#design)
-- [Colour Scheme](#colour-scheme)
-- [Typography](#typography)
-- [WireFrames](#wireframes)
-- [High Fidelity Prototypes](#high-fidelity-prototype)
-3. [Features](#features)
-- [Header](#header)
-- [Footer](#footer)
-- [Modal & Form](#modals-and-forms)
-- [Home Page](#home-page)
-- [Gallery](#gallery)
-- [Frequently Asked Questions](#frequently-asked-questions)
-4. [Future Features](#future-features)
-5. [Technologies Used](#technologies-used)
-6. [Testing](#testing)
-7. [Deployment](#deployment)
-- [Local deployment & Cloning](#local-deployment)
-- [Forking](#forking)
-8. [Credits](#credits)
-- [Images](#images)
-- [Other Credits](#other-credits)
-- [Content](#content)
-9. [Acknowledgements](#acknowledgements)
-10. [Disclaimer](#disclaimer)
-
-
 # User Stories
 ## New Site Users
 - As a new site user, I would like to get information and advice , so that I can Decide wether this service is right for me. 
