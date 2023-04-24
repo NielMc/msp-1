@@ -232,6 +232,10 @@ You can fork this repository by using the following steps:
 
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account! 
 
+### Local VS Deployment
+
+No Differences discovered
+
 # Credits
 
 ## Images
@@ -294,16 +298,16 @@ A Select few images of myself and Serah are from personal collection.
 
 - The whole community on [Slack](https://slack.com/intl/en-gb).
 
-- My Code Institute Mentor.
-
 ## Content
 
  I wrote all content myself how ever I did take inspiration from the typed adds at [Dreads.co.uk](https://www.dreadz.co.uk/pages/uk-dreading-services-companies-and-dreadlock-maintenance-salons#Essex).
 
  # Acknowledgements
 
- - The freinds that helped to test the site.
+ - I would like to thank The freinds that helped to test the site.
 
- - My code Institute Mentor
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project. 
 
- - My City of bristol college Lecturer
+- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues. 
+
+ - I would like to thank My City of bristol college Lecturer
