@@ -131,17 +131,29 @@ Responsiveness was tested using [Google Dev Tools](https://developer.chrome.com/
 
 I've tested my deployed project using the Lighthouse Audit tool to check for any major issues. 
 
-### Index
+### Desktop
 
 ![screenshot](documentation/lightdesktopindex.webp)
 
-### Gallery
-
 ![screenshot](documentation/lightdesktopgallery.webp)
-
-### FAQ  
-
+ 
 ![screenshot](documentation/lightdesktopfaq.webp)
+
+### Tablet
+
+![screenshot](documentation/lighttabletindex.webp)
+
+![screenshot](documentation/lighttabletgallery.webp)
+
+![screenshot](documentation/lighttabletfaq.webp)
+
+### Mobile
+
+![screenshot](documentation/lightmobindex.webp)
+
+![screenshot](documentation/lightmobgallery.webp)
+
+![screenshot](documentation/lightmobfaq.webp)
 
 ## User Story Testing
 
