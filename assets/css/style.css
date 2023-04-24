@@ -151,15 +151,10 @@ button.zoom:hover {
 
 .border:hover {
 	transform: scale(1.1);
-    transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out; 
 }
 
 .zoom:hover {
 	transform: scale(1.1);
-    transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out; 
 }
-
-.btn-hover {
-    transition: all 0.2s ease-in-out;
-  }
-  
