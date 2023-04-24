@@ -63,7 +63,7 @@ Icons used were from [Font Awesome](https://fontawesome.com) and [Adobe Stock](h
 To follow best practice , Wireframes were developed for mobile, tablet and desktop sizes
 
 
-![screenshot](documentation/Wiremobile.png)
+![screenshot](documentation/wiremobile.png)
 
 ![screenshot](documentation/wirepad1.png)
 
