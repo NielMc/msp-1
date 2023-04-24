@@ -310,4 +310,4 @@ A Select few images of myself and Serah are from personal collection.
 
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues. 
 
- - I would like to thank My City of bristol college Lecturer
+ - I would like to thank My City of bristol college Lecturer, For their support and advice throughout the project.
