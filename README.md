@@ -307,10 +307,3 @@ A Select few images of myself and Serah are from personal collection.
  - My code Institute Mentor
 
  - My City of bristol college Lecturer
-
- # Disclaimer
- This project was created with the sole purpose of creating my Milestone 1 Project. Not for business use until ammended.
- Joe Seabrook, April 2023. All rights reserved
-
-
-
