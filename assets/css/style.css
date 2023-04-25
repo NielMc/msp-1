@@ -76,18 +76,6 @@ ul {
 	border: none;
 }
 
-.btn-contact:hover {
-	background-color: #eb7719;
-	color: #241f20;
-	border: none;
-}
-
-.btn-contact:active {
-	background-color: #eb7719;
-	color: #241f20;
-	border: none;
-}
-
 /*-- nav bar --*/
 
 .navbar-nav .nav-link.active {
@@ -141,7 +129,16 @@ ul {
 	margin-bottom: 10px;
 }
 
+
 /*-- media queries --*/
+
+.border {
+	transition: all 0.2s ease-in-out;
+}
+
+.zoom {
+	transition: all 0.2s ease-in-out;
+}
 
 button.zoom:hover {
 	font-size: 20px;
@@ -151,16 +148,28 @@ button.zoom:hover {
 
 .border:hover {
 	transform: scale(1.1);
-    transition: all 0.2s ease-in-out; 
+
 }
 
 .zoom:hover {
 	transform: scale(1.1);
-    transition: all 0.2s ease-in-out; 
+
 }
 
 button.acczoom:hover {
 	font-size: 20px;
 	padding: 12px 24px;
 	background-color: #eb7719;
+}
+
+.btn-contact:hover {
+	background-color: #eb7719;
+	color: #241f20;
+	border: none;
+}
+
+.btn-contact:active {
+	background-color: #eb7719;
+	color: #241f20;
+	border: none;
 }
