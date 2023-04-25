@@ -57,11 +57,16 @@ ul {
 
 /*-- images in content --*/
 
+.zoom  {
+    transition: all 0.2s ease-in-out;
+}
+
 .border {
 	background: #eb7719;
 	padding: 25px;
 	border: 1px solid #eb7719;
 	border-radius: 50px;
+    transition: all 0.2s ease-in-out;
 }
 
 /*-- contact button --*/
@@ -130,14 +135,6 @@ ul {
 }
 
 /*-- media queries --*/
-
-.border {
-	transition: all 0.2s ease-in-out;
-}
-
-.zoom {
-	transition: all 0.2s ease-in-out;
-}
 
 button.zoom:hover {
 	font-size: 20px;
